@@ -1,4 +1,4 @@
-# 📖 Pokédex amb Python
+# 📖 Pokédex amb Python + API
 
 Benvinguts! Aquest projecte és un **Jupyter Notebook** que es connecta a internet per obtenir informació dels primers 150 Pokémon i mostrar-los en una graella visual. Ho fa utilitzant una **API pública** (PokéAPI), sense necessitat de registrar-se ni tenir cap clau secreta.
 
